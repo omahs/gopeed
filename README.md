@@ -121,7 +121,7 @@ Please refer to [CONTRIBUTING.md](/CONTRIBUTING.md)
 
 #### Desktop
 
-First, you need to configure the environment according to the official [Flutter desktop website documention](https://docs.flutter.dev/development/platform-integration/desktop), then you will need to ensure the cgo environment is set up accordingly. For detailed instructions on setting up the cgo environment, please refer to relevant resources available online.
+First, you need to configure the environment according to the official [Flutter desktop website documentation](https://docs.flutter.dev/development/platform-integration/desktop), then you will need to ensure the cgo environment is set up accordingly. For detailed instructions on setting up the cgo environment, please refer to relevant resources available online.
 
 command:
 
